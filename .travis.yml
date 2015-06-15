@@ -1,0 +1,3 @@
+language: ruby
+after_success:
+- make push
